@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "39F636D69DA2EED7479FF15F8CDC5220",
+  "keywordClasses": [
+    {
+      "name": "AddCheapestItem",
+      "keywordMethods": [
+        {
+          "name": "FindCheapest",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

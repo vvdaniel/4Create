@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "33D0E6F346E99F6E6423107C93CFE68B",
+  "keywordClasses": [
+    {
+      "name": "AddMostExpensiveItem",
+      "keywordMethods": [
+        {
+          "name": "FindMostExpensivve",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
